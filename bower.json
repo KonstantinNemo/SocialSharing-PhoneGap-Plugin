@@ -16,11 +16,11 @@
   "license": "MIT",
   "private": true,
   "ignore": [
-    "src/**/*",
+    "src",
 	"*.png",
     "*.jpg",
 	"package.json",
-	"plugins.xml",
+	"plugin.xml",
 	"README.md",
 	".bower.json",
 	".gitignore",
