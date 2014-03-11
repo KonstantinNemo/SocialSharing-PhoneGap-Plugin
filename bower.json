@@ -1,0 +1,25 @@
+{
+  "name": "SocialSharing-PhoneGap-Plugin",
+  "version": "4.0.2",
+  "homepage": "https://github.com/KonstantinNemo/SocialSharing-PhoneGap-Plugin",
+  "authors": [
+    "EddyVerbruggen"
+  ],
+  "description": "This is a fork of https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.",
+  "main": "www/SocialSharing.js",
+  "keywords": [
+    "statusbar",
+    " status bar",
+    " ios",
+    " overlay"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
