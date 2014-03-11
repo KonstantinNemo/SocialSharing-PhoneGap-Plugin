@@ -18,7 +18,12 @@
   "ignore": [
     "src/**/*",
 	"*.png",
-    "node_modules",
+    "*.jpg",
+	"package.json",
+	"plugins.xml",
+	"README.md",
+	".bower.json",
+	".gitignore",
     "bower_components",
     "test",
     "tests"
